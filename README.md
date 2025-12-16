@@ -1,4 +1,4 @@
-# Q-State-Arena-Learning-Quantum-Gates
+# QState-Arena - Learning Quantum Gates
 A mini project aiming to help understand and visuvalize quantum gates and qubits.
 
 *A gamified, interactive 2-qubit quantum state simulator with Bloch sphere visualization.*
