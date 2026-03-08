@@ -7,7 +7,7 @@ Quantum State Builder is an educational and interactive Python application that 
 
 The project uses **Tkinter** for the GUI and **Qiskit** for quantum simulation, with **Matplotlib** for 3D Bloch sphere rendering and a custom “entanglement glow” effect.
 
----
+
 
 ## 🚀 **Features**
 
@@ -23,14 +23,14 @@ The game consists of **five progressive levels**:
 
 Each level evaluates your state’s **fidelity** and awards points when successful.
 
----
+
 
 ### ⚛️ **Quantum Gate Controls**
 
 You can apply common single-qubit and two-qubit gates:
 
 | Gate | Description                                        |
-| ---- | -------------------------------------------------- |
+| - | -- |
 | X    | Bit flip                                           |
 | Y    | Bit + phase flip                                   |
 | Z    | Phase flip                                         |
@@ -39,7 +39,7 @@ You can apply common single-qubit and two-qubit gates:
 | T    | Phase π/4                                          |
 | CX   | Controlled-NOT (custom control & target selection) |
 
----
+
 
 ### 📊 **Real-Time Visualization**
 
@@ -52,7 +52,7 @@ The interface includes:
 * **Action history log**
 * **Level challenge description**
 
----
+
 
 ### 🧪 **Measurement & Fidelity Checking**
 
@@ -60,14 +60,14 @@ The interface includes:
 * Verify fidelity against the target state for each challenge
 * Automatically normalize statevectors
 
----
+
 
 ## 🖥️ **Screenshots**
 
 ![View of home page when app is just opened](/screenshots/home.png?raw=true "Home")
 ![View of an entangled qubit](/screenshots/ent.png?raw=true "Ent")
 
----
+
 
 ## 🧱 **Project Structure**
 
@@ -76,7 +76,7 @@ main_final_final_final_glow.py
 README.md
 ```
 
----
+
 
 ## 🔧 **Requirements**
 
@@ -92,7 +92,7 @@ Tkinter is included by default on most systems, but on Linux you may need:
 sudo apt install python3-tk
 ```
 
----
+
 
 ## ▶️ **How to Run**
 
@@ -102,7 +102,7 @@ python main_final_final_final_glow.py
 
 The game window will open with all controls ready to use.
 
----
+
 
 ## 🛠️ **Technologies Used**
 
@@ -112,7 +112,7 @@ The game window will open with all controls ready to use.
 * **Qiskit + AerSimulator** (quantum circuit simulation)
 * **NumPy** (math operations)
 
----
+
 
 ## 📚 **Educational Value**
 
@@ -125,7 +125,7 @@ This project is great for learning:
 * How fidelities measure similarity between states
 * Hands-on quantum circuit construction
 
----
+
 
 ## 🤝 Contributing
 
@@ -137,5 +137,5 @@ Feel free to submit pull requests or open issues if you'd like to add features s
 * Quantum gate tutorials
 * Saving/loading circuits
 
----
+
 
