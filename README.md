@@ -1,5 +1,5 @@
 # QState-Arena - Learning Quantum Gates
-A mini project built as part of the **PESUIO (PES University Introduction to Open Source)** course, aiming to help understand and visualize quantum gates and qubits.
+A mini project built as part of the **PESUIO** course at PES University, aiming to help understand and visualize quantum gates and qubits.
 
 *A gamified, interactive 2-qubit quantum state simulator with Bloch sphere visualization.*
 
